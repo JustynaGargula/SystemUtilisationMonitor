@@ -36,7 +36,7 @@ class CPU:
         print("CPU doing nothing time: " + str(self.idle_time) + " minutes")
 
 
-# delete when main is done
+# TODO delete when main is done
 
 # print(psutil.cpu_times())
 # print(psutil.cpu_freq())

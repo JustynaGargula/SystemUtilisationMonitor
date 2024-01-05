@@ -30,6 +30,6 @@ class Memory:
         print("used memory: " + str(self.percent) + " %")
 
 
-# delete when main is done
+# TODO delete when main is done
 m = Memory()
 m.show_parameters()
